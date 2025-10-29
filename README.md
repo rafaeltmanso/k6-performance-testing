@@ -1,8 +1,11 @@
 # Performance Testing with k6 
 
-<h1 align="left">
-    <img src=".github/logo-stiker.svg" width="250px">
-</h1>
+<div align="left">
+    <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
 
 > **📚 Study Project** - This is an educational project for learning performance testing using k6.
 
