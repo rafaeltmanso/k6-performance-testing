@@ -4,3 +4,4 @@ tmp/*
 uploads/*
 .DS_Store
 yarn.lock
+WARP.md
